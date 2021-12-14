@@ -1,2 +1,2 @@
 # djangocelery_lab
-Lab for undestand Django + Celery + Periodic Tasks 
+Lab for undestand about Django + Celery + Periodic Tasks 
